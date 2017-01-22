@@ -1,0 +1,57 @@
+.carousel{
+  margin-top: 0;
+}
+.navbar{
+  border-radius: 0;
+  margin-bottom: 30;
+}
+.panel-footer{
+  background-color:rgba(0,0,0,0);
+  border-style: none;
+  color:white;
+}
+
+.navbar-fixed-bottom{
+  border-radius: 0;
+}
+
+.screen{
+  background-color: rgba(0,0,0,0.10);
+}
+
+body {
+  background: url('../img/footer/footer.png') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.panel{
+  box-shadow: 0.5px 0.5px 0.5px #888888;
+  border-style: none;
+}
+
+#copyright{
+  text-align: right;
+}
+
+.align-right{
+  float: right;
+}
+
+.payment-text{
+  text-shadow: 0.5px 0.5px 0.5px #888888;
+  padding: 10px;
+  border-style: none;
+
+}
+
+.table{
+  background-color: #ffffff;
+  text-align: center;
+}
+
+.panel-padding{
+  padding: 10px;
+}
